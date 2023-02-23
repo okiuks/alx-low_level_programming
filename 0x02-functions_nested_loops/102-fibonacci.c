@@ -8,7 +8,7 @@ int main(void)
 	int i;
 	int fib = 0;
 
-	for (i = 1; i <= 50; i++)
+	for (i = 1; i <= 49; i++)
 		fib += i;
 	return (0);
 }
