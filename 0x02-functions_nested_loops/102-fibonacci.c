@@ -6,7 +6,7 @@
 int main(void)
 {
 	int i;
-	int fib = 1;
+	int fib = 0;
 
 	for (i = 1; i <= 50; i++)
 		fib += i;
