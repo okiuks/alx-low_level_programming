@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int num1 = 1, num2 = 2, nextNum, count = 2;
+	int num1 = 1, num2 = 2, nextNum, count = 1;
 
 	while (count < 98)
 	{
